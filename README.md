@@ -1,2 +1,2 @@
 # Calcify
-A basic calclator app based on kotlin 
+A basic calclator android app based on kotlin 
